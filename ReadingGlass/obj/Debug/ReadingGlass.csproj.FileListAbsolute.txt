@@ -1,0 +1,10 @@
+C:\Users\겨울엔군고구마한잔\source\repos\ReadingGlass\ReadingGlass\obj\Debug\ReadingGlass.csproj.AssemblyReference.cache
+C:\Users\겨울엔군고구마한잔\source\repos\ReadingGlass\ReadingGlass\obj\Debug\ReadingGlass.Form1.resources
+C:\Users\겨울엔군고구마한잔\source\repos\ReadingGlass\ReadingGlass\obj\Debug\ReadingGlass.Properties.Resources.resources
+C:\Users\겨울엔군고구마한잔\source\repos\ReadingGlass\ReadingGlass\obj\Debug\ReadingGlass.csproj.GenerateResource.cache
+C:\Users\겨울엔군고구마한잔\source\repos\ReadingGlass\ReadingGlass\obj\Debug\ReadingGlass.csproj.CoreCompileInputs.cache
+C:\Users\겨울엔군고구마한잔\source\repos\ReadingGlass\ReadingGlass\bin\Debug\ReadingGlass.exe.config
+C:\Users\겨울엔군고구마한잔\source\repos\ReadingGlass\ReadingGlass\bin\Debug\ReadingGlass.exe
+C:\Users\겨울엔군고구마한잔\source\repos\ReadingGlass\ReadingGlass\bin\Debug\ReadingGlass.pdb
+C:\Users\겨울엔군고구마한잔\source\repos\ReadingGlass\ReadingGlass\obj\Debug\ReadingGlass.exe
+C:\Users\겨울엔군고구마한잔\source\repos\ReadingGlass\ReadingGlass\obj\Debug\ReadingGlass.pdb
